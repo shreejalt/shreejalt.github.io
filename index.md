@@ -25,9 +25,10 @@ ___
 
 | College/School       | Degree                                          | GPA/Percentage |
 | -------------------- | ----------------------------------------------- | -------------- |
+| Lassonde School of Engineering, York University | Masters in Computer Science | 3.8 (Ongoing) |
 | Ahmedabad University | BTech. Information and Communication Technology | 3.45           |
 | Swastik Sindoor      | Higher Secondary Board                          | 92%            |
-| Swastik Sindoor      | Text                                            | 85%            |
+| Swastik Sindoor      | Secondary Board                                            | 85%            |
 
 ### Courses and Electives
 - Introduction to Blockchain
@@ -111,7 +112,7 @@ ___
 
 #### TODO List
 - [X] Grafana
-- [ ] Prometheus
+- [X] Prometheus
 - [ ] Elastic Search
 - [ ] Kubernetes
 - [ ] GoLang
@@ -144,7 +145,6 @@ ___
 ---
 
 ### Projects
-
 - [Intelligent Traffic Light Control System](https://github.com/shreejalt/AdaptiveTrafficLights)
   > Created a prototype for automating the traffic light timers by doing dynamic timer set-stop transitions at the
   crossroads for Ahmedabad. Density calculation was done through two different approaches viz Deep Learning: TFNet YOLO Detection and Computer Vision/ Image Processing: Foreground extraction.
