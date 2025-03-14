@@ -10,7 +10,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/shreejalt/"> LinkedIn <i class="fa fa-linkedin"></i></a> <br>
   <a href="https://www.github.com/shreejalt" "> Github <i class="fa fa-github"></i></a> <br>
   <a href="https://shreejaltrivedi.medium.com/" > Medium <img src="/images/medium.svg" align="center" height="20" width="20"></img></a> <br>
-  <a href="https://drive.google.com/file/d/1rigozG7GENldADfkJi48L1F17mrLouVV/view?usp=sharing"> CV <img src="https://cdn-icons-png.flaticon.com/512/3135/3135731.png" align="center height="20" width="20"></img></a>
+  <a href="https://drive.google.com/file/d/1PcVUR5Gs9dOgmk8yplYI1w-OtpGTqTjY/view?usp=sharing"> CV <img src="https://cdn-icons-png.flaticon.com/512/3135/3135731.png" align="center height="20" width="20"></img></a>
   <script>
   function sendEmail() 
   {
