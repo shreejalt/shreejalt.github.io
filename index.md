@@ -1,4 +1,4 @@
-# <center> Shreejal Trivedi's Portfolio &#128526; </center>
+# <center> Some things I know in life! &#128526; </center>
 
 Hi Guys. I am a passionate engineer interested in Deep Learning, Computer Vision, and Generative AI. I love to develop deep learning
 based computer vision algorithms that can have a real imapct in terms of performance, generalizability, and outreach of its solution. 
@@ -11,6 +11,8 @@ visit on my [Medium](https://shreejaltrivedi.medium.com/) Page.
 
 Apart from the academica, I like to play cricket 🏏, football ⚽, and badmintion 🏸. I also like to read books related to sci-fi, thriller, cosmology, and astrophysics.
 Not to forget, I am a huge Real Madrid Fan. HALA MADRID !. <img src="https://media3.giphy.com/media/6qqgGk1rTcN85n0sb7/giphy.gif?cid=790b76116682c84af773af79dbbd07998594812d31e67b12&rid=giphy.gif&ct=s" height="40" width="40" align="center"/>
+
+Last but not least, I am a Pokémon freak. I judge a person based on which starter pokemon they choose. I choose Charmender! <img src="https://media.giphy.com/media/3VQDfP4q4ZYyY/giphy.gif?cid=790b7611vqgq9ft2nspcr4xvu7gu7cgely5ykg2m6h8ng4ev&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="37.6" width="50" align="center"/>
 
 ___
 
