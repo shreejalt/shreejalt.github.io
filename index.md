@@ -30,7 +30,7 @@ ___
 | College/School       | Degree                                          | GPA/Percentage |
 | -------------------- | ----------------------------------------------- | -------------- |
 | Lassonde School of Engineering, York University | Masters in Computer Science - Thesis | 3.9 (Ongoing) |
-| Ahmedabad University | BTech. Information and Communication Technology | 3.45           |
+| Ahmedabad University | BTech. Information and Communication Technology | 3.61           |
 | Swastik Sindoor      | Higher Secondary Board                          | 92%            |
 | Swastik Sindoor      | Secondary Board                                            | 85%            |
 
